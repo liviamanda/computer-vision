@@ -3,8 +3,8 @@
 ### Overview
 
 This project aims to evaluate concepts in Computer Vision. The specific goals include:
-- Understanding the principles of Computer Vision/NLP.
-- Preparing data for use in a Computer Vision/NLP model.
+- Understanding the principles of Computer Vision.
+- Preparing data for use in a Computer Vision model.
 - Implementing an Artificial Neural Network using the selected data.
 - Analyzing and explaining the performance of the designed Artificial Neural Network architecture.
 
