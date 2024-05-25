@@ -1,4 +1,4 @@
-## Lung Cancer Project
+## Lung Cancer Detection
 
 ### Overview
 
